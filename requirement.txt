@@ -1,0 +1,6 @@
+torch
+torchaudio
+git+https://github.com/openai/whisper.git
+streamlit
+pytube
+ffmpeg-python
